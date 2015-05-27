@@ -1,0 +1,23 @@
+{
+  "name": "javascript-workshopper",
+  "version": "0.0.1",
+  "description": "A story-based JavaScript lesson for beginner and novice programmers.",
+  "keywords": ["NodeSchool", "workshopper", "JavaScript", "lesson", "tutorial"],
+  "homepage": "https://github.com/gwmccull/javascript-workshopper",
+  "author": {
+    "name" : "Garrett McCullough",
+    "url" : "http://gwmccull.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gwmccull/javascript-workshopper"
+  },
+  "license": "BSD-3-Clause",
+  "bin": "./javascript-workshopper.js",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "colors-tmpl": "^1.0.0",
+    "workshopper": "^2.5.0",
+    "workshopper-exercise": "^2.3.0"
+  }
+}
